@@ -5,6 +5,7 @@ huggingface_hub==0.24.5
 pandas
 torch
 nltk==3.8.1
-gradio==4.36.1
+#gradio==4.36.1
 matplotlib
 seaborn
+#pip install --upgrade fastapi starlette pydantic gradio
