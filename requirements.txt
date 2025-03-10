@@ -8,4 +8,6 @@ nltk==3.8.1
 #gradio==4.36.1
 matplotlib
 seaborn
+spacy
+pyvis==0.3.2
 #pip install --upgrade fastapi starlette pydantic gradio
